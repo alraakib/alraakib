@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align=center><a href="https://github.com/alraakib"><img src="[[https://i.imgur.com/iz0jaCX.png](https://static.vecteezy.com/system/resources/thumbnails/005/545/335/small/user-sign-icon-person-symbol-human-avatar-isolated-on-white-backogrund-vector.jpg)]" /></a></p>
+<p align=center><a href="https://github.com/alraakib">hi</a></p>
 🔭 I’m currently working on Next 13<br>🌱 I’m currently learning Framer Motion<br>💬 Ask me about Front-end Development<br>
 
 
