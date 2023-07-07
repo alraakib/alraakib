@@ -1,5 +1,9 @@
 # 💫 About Me:
-<p align=center><a href="https://github.com/alraakib">hi</a></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 🔭 I’m currently working on Next 13<br>🌱 I’m currently learning Framer Motion<br>💬 Ask me about Front-end Development<br>
 
 
