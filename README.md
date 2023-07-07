@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=facebook,instagram,github,codepen" />
   </a>
 </p>
 🔭 I’m currently working on Next 13<br>🌱 I’m currently learning Framer Motion<br>💬 Ask me about Front-end Development<br>
