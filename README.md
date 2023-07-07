@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=facebook,instagram,github,codepen" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=23&weight=500&pause=2000&duration=4000&color=707070&center=true&vCenter=true&width=500&height=100&lines=Al+Rakib;Frontend+Developer;Web+Developer" />
   </a>
 </p>
 🔭 I’m currently working on Next 13<br>🌱 I’m currently learning Framer Motion<br>💬 Ask me about Front-end Development<br>
