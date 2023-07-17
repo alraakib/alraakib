@@ -17,10 +17,15 @@
   <a href="https://skillicons.dev">
     <img src="https://github-readme-stats.vercel.app/api?username=alraakib&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
   </a>
+<br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=alraakib&theme=react&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-streak-stats.herokuapp.com/?user=alraakib&theme=react&hide_border=false" />
+  </a>
+<br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alraakib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </a>
 </p>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alraakib&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alraakib&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alraakib&theme=discord&no-frame=false&no-bg=true&margin-w=4)
