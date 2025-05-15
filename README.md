@@ -27,7 +27,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alraakib&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alraakib&theme=flat&no-frame=true&no-bg=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alraakib&limit=5&theme=discord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=alraakib&limit=5&combine_all_yearly_contributions=true)
