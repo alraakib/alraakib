@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=30&duration=4000&pause=1000&color=26c140&vCenter=true&width=350&lines=Al+Rakib;Software+Engineer)](http://alrakib.is-a.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=30&duration=4000&pause=1000&color=FFCA27&vCenter=true&width=350&lines=Al+Rakib;Software+Engineer)](http://alrakib.is-a.dev)
 
  <img src="./assets/bangladesh.png" alt="Bangladesh" style="width: 20px; margin-right: 50px"/> Based on Ban**Glad**esh
  <br>
