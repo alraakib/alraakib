@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=30&duration=4000&pause=1000&color=26c140&vCenter=true&width=350&lines=Al+Rakib;Software+Engineer)](http://alrakib.is-a.dev)
 
- ![Bangladesh](./assets/bangladesh.png) Based on Ban**Glad**esh
+ <img src="./assets/bangladesh.png" alt="Bangladesh" style="width: 20px; margin-right: 20px"/> Based on Ban**Glad**esh
  <br>
- ![Rocket](./assets/rocket.png) I'm currently working on **Building scalable solutions**
+ <img src="./assets/rocket.png" alt="Rocket" style="width: 20px; margin-right: 20px"/> I'm currently working on **Building scalable solutions**
  <br>
- ![Book](./assets/book.png) I'm currently learning **Deployment and Nginx**
+ <img src="./assets/book.png" alt="Book" style="width: 20px; margin-right: 20px"/> I'm currently learning **Deployment and Nginx**
  <br>
- ![Chat](./assets/chat.png) Ask me about **ReactJS, NextJS, Typescript**
+ <img src="./assets/chat.png" alt="Chat" style="width: 20px; margin-right: 20px"/> Ask me about **ReactJS, NextJS, Typescript**
  <br>
- ![Mail](./assets/mail.png) Reach me at **[Email](mailto:alraakib@gmail.com)**
+ <img src="./assets/mail.png" alt="Mail" style="width: 20px; margin-right: 20px"/> Reach me at **[Email](mailto:alraakib@gmail.com)**
  <br>
- ![World](./assets/world.png) All of my projects are available at my **[Portfolio](https://alrakib.is-a.dev/)**
+ <img src="./assets/world.png" alt="World" style="width: 20px; margin-right: 20px"/> All of my projects are available at my **[Portfolio](https://alrakib.is-a.dev/)**
  <br>
- ![Page](./assets/page.png) Know about my experiences on my **[Resume](https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view)**
+ <img src="./assets/page.png" alt="Page" style="width: 20px; margin-right: 20px"/> Know about my experiences on my **[Resume](https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view)**
 
 # Skills
 
