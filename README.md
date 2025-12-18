@@ -68,9 +68,9 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-3d3d3d?style=flat-square&logo=adobeillustrator&color=FF9A00&logoColor=white)
 
 # Connect with me
-[![Facebook](https://img.shields.io/badge/Facebook-3d3d3d?style=flat-square&logo=facebook&color=1877F2&logoColor=white)](https://www.facebook.com/alrakib.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-3d3d3d?style=flat-square&logo=whatsapp&color=25D366&logoColor=white)](https://wa.me/8801772122226)
 ![Mobile](https://img.shields.io/badge/Mobile-3d3d3d?style=flat-square&logo=telenor&color=1A73E9&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-3d3d3d?style=flat-square&logo=gmail&color=EA4335&logoColor=white)](mailto:alraakib@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3d3d3d?style=flat-square&logo=linkedin&color=0A66C2&logoColor=white)](https://linkedin.com/in/alraakib)
 [![GitHub](https://img.shields.io/badge/GitHub-3d3d3d?style=flat-square&logo=github&color=181717&logoColor=white)](https://github.com/alraakib/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-3d3d3d?style=flat-square&logo=whatsapp&color=25D366&logoColor=white)](https://wa.me/8801772122226)
+[![Facebook](https://img.shields.io/badge/Facebook-3d3d3d?style=flat-square&logo=facebook&color=1877F2&logoColor=white)](https://www.facebook.com/alrakib.dev)
