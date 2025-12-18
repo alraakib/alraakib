@@ -1,18 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=30&duration=4000&pause=1000&color=26c140&vCenter=true&width=350&lines=Al+Rakib;Software+Engineer)](http://alrakib.is-a.dev)
 
- <img src="./assets/bangladesh.png" alt="Bangladesh" style="width: 20px; margin-right: 20px"/> Based on Ban**Glad**esh
+ <div style="display:flex; align-items: center; gap: 25px"><img src="./assets/bangladesh.png" alt="Bangladesh" style="width: 25px; margin-right: 50px"/> Based on Ban**Glad**esh</div>
  <br>
- <img src="./assets/rocket.png" alt="Rocket" style="width: 20px; margin-right: 20px"/> I'm currently working on **Building scalable solutions**
+ <div style="display:flex; align-items: center; gap: 25px"><img src="./assets/rocket.png" alt="Rocket" style="width: 25px; margin-right: 50px"/> I'm currently working on **Building scalable solutions**</div>
  <br>
- <img src="./assets/book.png" alt="Book" style="width: 20px; margin-right: 20px"/> I'm currently learning **Deployment and Nginx**
+ <div style="display:flex; align-items: center; gap: 25px"><img src="./assets/book.png" alt="Book" style="width: 25px; margin-right: 50px"/> I'm currently learning **Deployment and Nginx**</div>
  <br>
- <img src="./assets/chat.png" alt="Chat" style="width: 20px; margin-right: 20px"/> Ask me about **ReactJS, NextJS, Typescript**
+ <div style="display:flex; align-items: center; gap: 25px"><img src="./assets/chat.png" alt="Chat" style="width: 25px; margin-right: 50px"/> Ask me about **ReactJS, NextJS, Typescript**</div>
  <br>
- <img src="./assets/mail.png" alt="Mail" style="width: 20px; margin-right: 20px"/> Reach me at **[Email](mailto:alraakib@gmail.com)**
+ <div style="display:flex; align-items: center; gap: 25px"><img src="./assets/mail.png" alt="Mail" style="width: 25px; margin-right: 50px"/> Reach me at **[Email](mailto:alraakib@gmail.com)**</div>
  <br>
- <img src="./assets/world.png" alt="World" style="width: 20px; margin-right: 20px"/> All of my projects are available at my **[Portfolio](https://alrakib.is-a.dev/)**
+ <div style="display:flex; align-items: center; gap: 25px"><img src="./assets/world.png" alt="World" style="width: 25px; margin-right: 50px"/> All of my projects are available at my **[Portfolio](https://alrakib.is-a.dev/)**</div>
  <br>
- <img src="./assets/page.png" alt="Page" style="width: 20px; margin-right: 20px"/> Know about my experiences on my **[Resume](https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view)**
+ <div style="display:flex; align-items: center; gap: 25px"><img src="./assets/page.png" alt="Page" style="width: 25px; margin-right: 50px"/> Know about my experiences on my **[Resume](https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view)**</div>
 
 # Skills
 
