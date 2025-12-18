@@ -8,8 +8,8 @@
 
 - 💬 Ask me about **ReactJS, NextJS, Typescript**
 
-- 📫 How to reach me **alraakib@gmail.com**
+- 📫 Reach me at **[Email](mailto:alraakib@gmail.com)**
 
-- 👨‍💻 All of my projects are available at **[http://alrakib.is-a.dev/](http://alrakib.is-a.dev/)**
+- 👨‍💻 All of my projects are available at my **[Portfolio](https://alrakib.is-a.dev/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view](https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view)**
+- 📄 Know about my experiences on my resume **[Resume](https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view)**
