@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=30&duration=4000&pause=1000&color=167AF3&vCenter=true&width=350&lines=Al+Rakib;Software+Engineer)](http://alrakib.is-a.dev)
 
- <img src="./assets/bangladesh.png" alt="Bangladesh" style="width: 20px; margin-right: 50px"/> Based on Ban**Glad**esh
+ <div style="display: flex; align-items:center"> <img src="./assets/bangladesh.png" alt="Bangladesh" style="width: 20px; margin-right: 10px"/> Based on Ban**Glad**esh</div>
  <br>
  <img src="./assets/rocket.png" alt="Rocket" style="width: 20px; margin-right: 50px"/> I'm currently working on **Building scalable solutions**
  <br>
