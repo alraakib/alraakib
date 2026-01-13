@@ -33,8 +33,9 @@
 ![ShadcnUI](https://img.shields.io/badge/Shadcn_UI-3d3d3d?style=flat-square&logo=shadcnui&color=000000&logoColor=white)
 
 ### Backend & Auth
-![Node.js](https://img.shields.io/badge/Node.js-3d3d3d?style=flat-square&logo=nodedotjs&color=339933&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-3d3d3d?style=flat-square&logo=bun&color=000000&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3d3d3d?style=flat-square&logo=nodedotjs&color=339933&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-3d3d3d?style=flat-square&logo=nginx&color=009639&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-3d3d3d?style=flat-square&logo=express&color=000000&logoColor=white)
 ![Auth.js](https://img.shields.io/badge/Auth.js-3d3d3d?style=flat-square&logo=nextdotjs&color=000000&logoColor=white)
 ![FirebaseAuth](https://img.shields.io/badge/Firebase_Auth-3d3d3d?style=flat-square&logo=firebase&color=FFCA28&logoColor=333333)
