@@ -12,7 +12,7 @@
  <br>
  <img src="./assets/world.png" alt="World" style="width: 15px; margin-right: 10px"/> All of my projects are available at my **[Portfolio](https://alrakib.is-a.dev/)**
  <br>
- <img src="./assets/page.png" alt="Page" style="width: 15px; margin-right: 10px"/> Know about my experiences on my **[Resume](https://drive.google.com/file/d/14lPZKuHJdIKDcktTgs8d0eFCmBCvvVxj/view)**
+ <img src="./assets/page.png" alt="Page" style="width: 15px; margin-right: 10px"/> Know about my experiences on my **[Resume](https://drive.google.com/file/d/1e4Mvix2n6eMixLGq0GS98CBaS943-_Oi)**
 
 # Skills
 
